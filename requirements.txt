@@ -1,0 +1,5 @@
+requests
+azure-cognitiveservices-vision-computervision
+python-dotenv
+pillow
+opencv-python
